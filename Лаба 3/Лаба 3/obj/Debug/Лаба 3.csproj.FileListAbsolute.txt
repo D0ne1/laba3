@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 3\Лаба 3\Лаба 3\bin\Debug\Лаба 3.exe.config
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 3\Лаба 3\Лаба 3\bin\Debug\Лаба 3.exe
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 3\Лаба 3\Лаба 3\bin\Debug\Лаба 3.pdb
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 3\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 3\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 3\Лаба 3\Лаба 3\obj\Debug\Лаба 3.exe
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 3\Лаба 3\Лаба 3\obj\Debug\Лаба 3.pdb
+D:\Лаба 3\Лаба 3\bin\Debug\Лаба 3.exe.config
+D:\Лаба 3\Лаба 3\bin\Debug\Лаба 3.exe
+D:\Лаба 3\Лаба 3\bin\Debug\Лаба 3.pdb
+D:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.AssemblyReference.cache
+D:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.SuggestedBindingRedirects.cache
+D:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.CoreCompileInputs.cache
+D:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.exe
+D:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.pdb
